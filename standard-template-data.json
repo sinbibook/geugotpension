@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.11.0",
-    "generatedAt": "2026-04-23T08:08:30.997Z",
+    "version": "1.12.0",
+    "generatedAt": "2026-04-24T03:15:44.484Z",
     "templateType": "full_banner_slider",
     "propertyId": "323d5644-747f-436f-8b80-45350afa2d48",
     "homepageId": "83fc528e-8800-4110-8242-512f6f6de4d6"
@@ -2782,10 +2782,10 @@
                 ],
                 "videos": [],
                 "mediaType": "image",
-                "description": "당신의 여행 속 '그곳'\n강릉 여행 스파펜션"
+                "description": "당신의 여행 속 그곳\n강릉 여행 스파펜션"
               },
               "closing": {
-                "title": "당신의 여행 속 '그곳'",
+                "title": "당신의 여행 속 그곳",
                 "images": [
                   {
                     "id": "c6fd2375-695e-4106-98f3-905e2d7a52fd",
@@ -2830,8 +2830,8 @@
               "gallery": {
                 "title": "",
                 "images": [],
-                "mediaType": "image",
-                "videos": []
+                "videos": [],
+                "mediaType": "image"
               },
               "signature": {
                 "title": "",
@@ -2914,9 +2914,9 @@
                     "isSelected": true
                   }
                 ],
-                "description": "",
+                "videos": [],
                 "mediaType": "image",
-                "videos": []
+                "description": ""
               }
             }
           ]
